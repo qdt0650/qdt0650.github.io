@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/qdt0650/qdt0650.github.io/static/css/main.303584fe.css",
+    "main.js": "/qdt0650/qdt0650.github.io/static/js/main.346471b7.js",
+    "static/js/787.774594b4.chunk.js": "/qdt0650/qdt0650.github.io/static/js/787.774594b4.chunk.js",
+    "static/media/logo.svg": "/qdt0650/qdt0650.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/qdt0650/qdt0650.github.io/index.html",
+    "main.303584fe.css.map": "/qdt0650/qdt0650.github.io/static/css/main.303584fe.css.map",
+    "main.346471b7.js.map": "/qdt0650/qdt0650.github.io/static/js/main.346471b7.js.map",
+    "787.774594b4.chunk.js.map": "/qdt0650/qdt0650.github.io/static/js/787.774594b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.303584fe.css",
+    "static/js/main.346471b7.js"
+  ]
+}
